@@ -1,0 +1,278 @@
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>云上筑交会</title>
+		<meta name="keywords" content="">
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+		<link rel="stylesheet" type="text/css" href="css/code.css">
+		<link rel="stylesheet" type="text/css" href="css/swiper.min.css" />
+		<link rel="stylesheet" type="text/css" href="css/jquery.fullPage.css"/>
+		<link rel="stylesheet" type="text/css" href="css/index.css">
+	</head>
+	<body>
+		<div id="side">
+			<ul id="menu">
+				<li data-menuanchor="page1" class="active"><a class="a1" href="#page1" title="展会聚焦"><span class="yellow">展</span>会聚焦</a></li>
+				<li data-menuanchor="page2"><a class="a2" href="#page2" title="群英荟萃"><span class="yellow">群</span>英荟萃</a></li>
+				<li data-menuanchor="page3"><a class="a3" href="#page3" title="多元消费场景"><span class="yellow">多</span>元消费场景</a></li>
+				<li data-menuanchor="page4"><a class="a4" href="#page4" title="黔货出海"><span class="yellow">黔</span>货出海</a></li>
+				<li data-menuanchor="page5"><a class="a5" href="#page5" title="精彩现场"><span class="yellow">精</span>彩现场</a></li>
+			</ul>
+		</div>
+		<div id="dowebok">
+		    <div class="section">
+		        <div class="zhjj">
+		        	<div class="h-title">
+		        		<a href="#"><img src="images/zhjj.png"/></a>
+		        	</div>
+		        	<div class="h-toutiao">
+		        		<img src="images/news.png"/>
+		        		<div class="h-wz">
+		        			<h2><a href="#">赏明清老建筑、尝特色小吃，寻觅电影《寻枪》中出现过的场景</a></h2>
+		        			<p class="ellipsis">青岩古镇位于贵阳市南郊花溪区，与镇远、丙安、隆里并称为贵州四大古镇。古镇始建于明代，原为军事要塞，镇内完好地保存了大量明清时期的古建筑</p>
+		        		</div>
+		        	</div>
+		        	<div class="h-content clearfix">
+		        		<div class="left">
+		        			<div id="slideBox" class="slideBox">
+								<div class="hd">
+									<ul><li></li><li></li><li></li><li></li></ul>
+								</div>
+								<div class="bd">
+									<ul>
+										<li>
+											<a href="http://www.SuperSlide2.com" target="_blank">
+												<img src="http://www.gywb.cn/pic/003/006/647/00300664773_bbc2494c.jpg" />
+												<p>【图集】贵阳云上筑交会 市民拾光体验馆欣赏科技光影</p>
+											</a>
+										</li>
+										<li>
+											<a href="http://www.SuperSlide2.com" target="_blank">
+												<img src="http://www.gywb.cn/pic/003/006/648/00300664862_06c3d31c.jpg" />
+												<p>【图集】云上筑交会上演花艺快闪</p>
+											</a>
+										</li>
+										<li>
+											<a href="http://www.SuperSlide2.com" target="_blank">
+												<img src="http://www.gywb.cn/pic/003/006/648/00300664851_e7c4e57f.jpg" />
+												<p>【图集】贵阳云上筑交会 市民拾光体验馆欣赏科技光影</p>
+											</a>
+										</li>
+										<li>
+											<a href="http://www.SuperSlide2.com" target="_blank">
+												<img src="http://www.gywb.cn/pic/003/006/648/00300664862_06c3d31c.jpg" />
+												<p>【图集】云上筑交会上演花艺快闪</p>
+											</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+		        		</div>
+		        		<div class="right h-news">
+		        			<div class="xw-top">
+		        				<h2><a href="#">20个项目入围2019数博会工业APP融合创新大赛决赛</a></h2>
+		        				<p>20个入围项目分别为：中国振华新一代通用质量检测平台，制导飞行器总体设计APP，贵州省土木工程结构物安全健康及地质灾害监测预警预报<a href="" class="ml5 red">[详细]</a></p>
+		        			</div>
+		        			<a href="#" class="h-xw">贵阳三年出台三法规 护航大数据健康发展</a>
+		        			<a href="#" class="h-xw">贵阳三年出台三法规 护航大数据健康发展</a>
+		        			<a href="#" class="h-xw">贵阳三年出台三法规 护航大数据健康发展</a>
+		        			<a href="#" class="h-xw">贵阳三年出台三法规 护航大数据健康发展</a>
+		        			<a href="#" class="h-xw">贵阳三年出台三法规 护航大数据健康发展</a>
+		        		</div>
+		        	</div>
+		        </div>
+		    </div>
+		    <div class="section">
+		        <div class="qyhc">
+		        	<div class="h-title">
+		        		<a href="#"><img src="images/qyhc.png"/></a>
+		        	</div>
+		        	<div class="h-content">
+		        		<a href="#" class="h-xw">
+		        			<h2>“一河百山千园” 建成全国生态文明示范城市</h2>
+		        			<p>大家知道，最近中美双边贸易谈判里边有六个方面取得了实质性突破<span class="yellow">[详细]</span></p>
+		        			<img src="http://www.gywb.cn/pic/003/006/678/00300667822_047f7c87.jpg" alt="" />
+		        		</a>
+		 				<a href="#" class="h-xw">
+		        			<h2>“一河百山千园” 建成全国生态文明示范城市</h2>
+		        			<p>大家知道，最近中美双边贸易谈判里边有六个方面取得了实质性突破<span class="yellow">[详细]</span></p>
+		        			<img src="http://www.gywb.cn/pic/003/006/678/00300667822_047f7c87.jpg" alt="" />
+		        		</a>
+		        		<a href="#" class="h-xw">
+		        			<h2>“一河百山千园” 建成全国生态文明示范城市</h2>
+		        			<p>大家知道，最近中美双边贸易谈判里边有六个方面取得了实质性突破<span class="yellow">[详细]</span></p>
+		        			<img src="http://www.gywb.cn/pic/003/006/678/00300667822_047f7c87.jpg" alt="" />
+		        		</a>
+		        		<a href="#" class="h-xw">
+		        			<h2>“一河百山千园” 建成全国生态文明示范城市</h2>
+		        			<p>大家知道，最近中美双边贸易谈判里边有六个方面取得了实质性突破<span class="yellow">[详细]</span></p>
+		        			<img src="http://www.gywb.cn/pic/003/006/678/00300667822_047f7c87.jpg" alt="" />
+		        		</a>
+		        	</div>
+		        </div>
+		    </div>
+		    <div class="section">
+		        <div class="dyxf">
+		        	<div class="h-title">
+		        		<a href="#"><img src="images/dyxf.png"/></a>
+		        	</div> 
+		        	<div class="h-content">
+		        		<div class="h-left">
+		        			<a href="">
+		        				<h2>贵州工业云平台：与大数据共生 伴数博会成长</h2>
+		        				<p>“自然是生命之母，人与自然是生命共同体，人类必须敬畏自然、尊重自然、顺应自然、保护自然。”作为“十四个坚持”中的重要一条，“坚持人与自然和谐共生”为美丽...<span class="red">[详细]</span></p>
+		        				<img src="http://www.gywb.cn/pic/003/006/655/00300665526_ce96c52b.jpg"/>
+		        			</a>
+		        		</div>
+		        		<div class="h-middle">
+		        			<img src="http://www.gywb.cn/pic/003/006/655/00300665526_ce96c52b.jpg"/>
+		        			<p>惊艳！最美贵阳</p>
+		        		</div>
+		        		<div class="h-right">
+		        			<a href="">
+		        				<img src="http://www.gywb.cn/pic/003/006/655/00300665526_ce96c52b.jpg"/>
+			        			<h2>贵州工业云平台：与大数据共生 伴数博会成长</h2>
+			        			<p>“自然是生命之母，人与自然是生命共同体，人类必须敬畏自然、尊重自然、顺应自然、保护自然。”作为“十四个坚持”中的重要一条，“坚持人与自然和谐共生”为美丽...<span class="red">[详细]</span></p>
+			        		
+		        			</a>
+		        		</div>
+		        	</div>
+		        </div>
+		    </div>
+		    <div class="section">
+		        <div class="qhch">
+		        	<div class="h-title">
+		        		<a href="#"><img src="images/qhch.png"/></a>
+		        	</div> 
+		        	<div class="h-content">
+		        		<div class="h-top">
+		        		 	<div class="h-left">
+		        		 		<a href="">
+		        		 			<h2>贵州工业云平台：与大数据共生 伴数博会成长</h2>
+		        		 			<p>与此同时，家住金华园的赵金碧阿姨在社区卫生服务中心看病时得知，她的健康档案已经被录入“贵阳市人口健康信息云平台”，今后她去市级医院看病，再也不需要带纸质病历了。“今后，在全市227家医疗卫生机构实名就医的市民都可以通过市级平台实现电子病历...<span class="red">[详细]</span></p>
+		        		 			<img src="images/blue_bg.png" class="blue"/>
+			        				<img src="http://www.gywb.cn/pic/003/006/655/00300665528_0bc263d9.jpg" class="pic"/>
+		        		 		</a>
+		        		 	</div>
+		        		 	<div class="h-left">
+		        		 		<a href="">
+		        		 			<h2>贵州工业云平台：与大数据共生 伴数博会成长</h2>
+		        		 			<p>与此同时，家住金华园的赵金碧阿姨在社区卫生服务中心看病时得知，她的健康档案已经被录入“贵阳市人口健康信息云平台”，今后她去市级医院看病，再也不需要带纸质病历了。“今后，在全市227家医疗卫生机构实名就医的市民都可以通过市级平台实现电子病历...<span class="red">[详细]</span></p>
+		        		 			<img src="images/blue_bg.png" class="blue"/>
+			        				<img src="http://www.gywb.cn/pic/003/006/655/00300665528_0bc263d9.jpg" class="pic"/>
+		        		 		</a>
+		        		 	</div>
+			        	</div>
+			        	<div class="h-bottom">
+			        		<div class="h-wz">
+			        			<a href="">
+			        				<h2 class="f22px">贵州工业云平台：与大数据共生 伴数博会成长</h2>
+			        				<p class="f18px">与此同时，家住金华园的赵金碧阿姨在社区卫生服务中心看病时得知...[详细]</p>
+			        			</a>
+			        		</div>
+			        		<div class="h-wz">
+			        			<a href="">
+			        				<h2 class="f22px">贵州工业云平台：与大数据共生 伴数博会成长</h2>
+			        				<p class="f18px">与此同时，家住金华园的赵金碧阿姨在社区卫生服务中心看病时得知...[详细]</p>
+			        			</a>
+			        		</div>
+			        		<div class="h-wz">
+			        			<a href="">
+			        				<h2 class="f22px">贵州工业云平台：与大数据共生 伴数博会成长</h2>
+			        				<p class="f18px">与此同时，家住金华园的赵金碧阿姨在社区卫生服务中心看病时得知...[详细]</p>
+			        			</a>
+			        		</div>
+			        	</div>
+		        	</div>
+		        </div>
+		    </div>
+		    <div class="section">
+		        <div class="jcxc">
+		        	<div class="h-title">
+		        		<a href="#"><img src="images/jcxc.png"/></a>
+		        	</div> 
+		        	<div class="h-content">
+		        		<div class="swiper-container gallery-top">
+						    <div class="swiper-wrapper">
+						      	<div class="swiper-slide">
+						      		<a href="">
+						      			<img src="http://www.gywb.cn/pic/003/006/615/00300661519_86fda132.jpg"/>
+						      			<p>2020云上筑交会“五洲连线”云论坛嘉宾名单确定</p>
+						      		</a>
+						      	</div>
+						      	<div class="swiper-slide">
+						      		<a href="">
+						      			<img src="http://www.gywb.cn/pic/003/006/615/00300661519_86fda132.jpg"/>
+						      			<p>2020云上筑交会“五洲连线”云论坛嘉宾名单确定</p>
+						      		</a>
+						      	</div>
+						      	<div class="swiper-slide">
+						      		<a href="">
+						      			<img src="http://www.gywb.cn/pic/003/006/615/00300661519_86fda132.jpg"/>
+						      			<p>2020云上筑交会“五洲连线”云论坛嘉宾名单确定</p>
+						      		</a>
+						      	</div>
+						    </div>
+						    <!-- Add Arrows -->
+						    <div class="swiper-button-next swiper-button-white"></div>
+						    <div class="swiper-button-prev swiper-button-white"></div>
+						</div>
+						<div class="swiper-container gallery-thumbs">
+						    <div class="swiper-wrapper">
+							    <div class="swiper-slide">
+							      	<img src="http://www.gywb.cn/pic/003/006/615/00300661519_86fda132.jpg"/>
+							    </div>
+							     <div class="swiper-slide">
+							      	<img src="http://www.gywb.cn/pic/003/006/615/00300661519_86fda132.jpg"/>
+							    </div>
+							     <div class="swiper-slide">
+							      	<img src="http://www.gywb.cn/pic/003/006/615/00300661519_86fda132.jpg"/>
+							    </div>
+						    </div>
+						</div>
+		        	</div>
+		        </div>
+		    </div>
+		</div>
+	</body>
+	<script src="js/jquery-1.11.1.min.js" type="text/javascript"></script>
+	<script src="js/jquery.SuperSlide.2.1.1.js" type="text/javascript"></script>
+	<script type="text/javascript" src="js/swiper.min.js"></script>
+	<script src="js/jquery.fullPage.js" type="text/javascript"></script>
+	<script src="js/canvas-nest.min.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			$('#dowebok').fullpage({
+				anchors: ['page1', 'page2', 'page3', 'page4', 'page5'],
+				menu: '#menu'
+			});
+			$(".h-content #slideBox").slide({mainCell:".bd ul",autoPlay:true});
+			
+			//小
+		 var galleryThumbs = new Swiper('.gallery-thumbs', {
+			direction:"vertical",
+			  	spaceBetween: 25,
+			  	slidesPerView: 3,
+			  	freeMode: true,
+			  	watchSlidesVisibility: true,
+			  	watchSlidesProgress: true
+				
+			});
+			//大
+			var galleryTop = new Swiper('.gallery-top', {
+			direction:"vertical",
+			
+			 navigation: {
+				nextEl: '.swiper-button-next',
+				prevEl: '.swiper-button-prev',
+			  },
+			  spaceBetween: 0,
+			  thumbs: {
+				swiper: galleryThumbs
+			  }
+			});
+			
+		})
+	</script>
+</html>  

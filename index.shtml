@@ -1,0 +1,29 @@
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>云上筑交会</title>
+		<meta name="keywords" content="">
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+		<link rel="stylesheet" type="text/css" href="css/code.css">
+		<link rel="stylesheet" type="text/css" href="css/page.css">
+	</head>
+	<body>
+		<a href="main.shtml" class="big_title">
+			<img src="images/yslogo.png"/>
+		</a>
+		<a href="main.shtml" class="click">
+			<img src="images/click.png"/>
+		</a>
+	</body>
+	<script src="js/jquery-1.11.1.min.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			clearInterval(timer)
+			var timer=setInterval(function(){
+				$(".big_title").addClass('active');
+				$(".click").addClass('activeclick');
+			},300)
+		})
+	</script>
+</html>  
